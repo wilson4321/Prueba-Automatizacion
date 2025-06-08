@@ -7,7 +7,7 @@ Este repositorio contiene el proyecto de automatización con Serenity BDD + Java
 
 ## 1. Estructura del proyecto
 
-- `PruebaTecnica`: Script de pruebas automatizadas con Serenity BDD.
+- `PruebaTecnica`: Carpeta que contiene Script de pruebas automatizadas con Serenity BDD.
 - `Reporte Serenity`: Carpeta que contiene capturas de evidencias y reporte HTML de Serenity.
 - `Performance/PruebaTecnica.jmx`: Script de pruebas de carga con Apache JMeter.
 - `Performance/REPORTE PRUEBAS DE PERFORMANCE.docx`: Documento con captura de los resultados de carga y resumen de hallazgos.
@@ -23,10 +23,9 @@ Este repositorio contiene el proyecto de automatización con Serenity BDD + Java
 - Intellij IDEA
 
 ### Comandos de ejecucion:
-# Ejecutar todas las pruebas desde Gradle
+#### Ejecutar todas las pruebas desde Gradle
 ./gradlew clean test aggregate
-
-# O ejecutar desde el runner deseado en el IDE (por ejemplo, desde `RegressionRunner`)
+O ejecutar desde el runner deseado en el IDE (por ejemplo, desde `RegressionRunner`)
 
 ## 3. Instrucciones para ejecutar pruebas de Performance (Jmeter)
 
