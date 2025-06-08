@@ -38,3 +38,6 @@ O ejecutar desde el runner deseado en el IDE (por ejemplo, desde `RegressionRunn
 - Ejecutar la prueba dando click en el boton de play ▶️
 - Ver los resultados en el arbol de resultados o Reporte resumen
 
+## Autor
+
+Este proyecto fue creado por **[Wilson Araque]**. Puedes contactarme en [GitHub](https://github.com/wilson4321) o [LinkedIn](https://www.linkedin.com/in/wilsonaraquer/).
