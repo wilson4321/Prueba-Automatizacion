@@ -3,8 +3,6 @@
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
 ?
 settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
-P
- src/test/java/runners/Login.java,4\c\4ca8a255e39e7e6a852d9d9e42c63b2841edf24d
 M
 src/test/java/stepdefinitions,9\e\9e27a8aca43b6da1e1cd49f2ce140ad348d2b707
 g
@@ -13,24 +11,16 @@ R
 "src/main/java/utils/Constants.java,4\f\4f7a6c7079cf4b2ff19d6787f3f02ddcd18c4121
 \
 ,src/main/java/tasks/IngresoCredenciales.java,9\4\94eb2946ec60c1a885e00a7995cc4987af18f96f
-Y
-)src/main/java/userinterfaces/LoginUi.java,c\4\c4fda2f498f5ff5c13eca4ea63f3b1d7ef0b5c1b
-Y
-)src/main/java/questions/ValidarLogin.java,f\4\f4181dcad0d195fc10391ea9f6e5a255504505ef
 _
 /src/main/java/userinterfaces/ProductPageUi.java,5\1\51447df8d07659a07dce96ccf61794ff2fc98367
 a
 1src/main/java/exceptions/ResultadoInesperado.java,2\d\2dbc262504fa13d1a008ae3045ef677b2834b83e
-R
-"src/test/java/runners/Carrito.java,c\8\c8c0be2c6b537b520278f45dc396d2086c352627
 i
 9src/test/java/stepdefinitions/CarritoStepDefinitions.java,5\0\5007814ceebe47e88ee811b35fd922bdec44dd33
 X
 (src/main/java/tasks/AgregarProducto.java,0\e\0e8819ccd242e57a5cf7da364a51f0c254575742
 Y
 )src/main/java/questions/ValidarTexto.java,6\d\6db8a9e3310d7e1d32610e027cb79e4c14967f5d
-S
-#src/test/java/runners/Checkout.java,c\2\c2bbc4d6611db3f55d37f420aafb1e9733b62fd3
 j
 :src/test/java/stepdefinitions/CheckoutStepDefinitions.java,0\4\0409c677ad46082bc7b4c4fa50d619cd9d1072aa
 \
